@@ -14,4 +14,4 @@ Intergrate technology for real-time data synchronization, push notifications and
 
 ## Consequences
 
-Using these technlogoies might inccur higher costs, and issues in the future. Problems might arise when dealing with real-time data synchronization. 
+Using these technologies might incur higher costs, and issues in the future. Problems might arise when dealing with real-time data synchronization. 
