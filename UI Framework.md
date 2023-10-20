@@ -14,4 +14,4 @@ This is in tandem with type of application.
 
 ## Consequences
 
-Due to developing on a hybrid application and being able to handle twoww different platforms iOS and Android. 
+Due to developing on a hybrid application and being able to handle two different platforms iOS and Android. 
